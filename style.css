@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+}
+
+ul {
+   font-size: 300%;
+   color: green;
+}
+
+ol {
+   font-size: 200%;
+   color: red;
+}
+
+h3 {
+    font-size: 50%;
+    color: purple;
+}
+
+body {
+	background-color: rgb(255, 255, 128);
+     }
+
+img {
+	width: 200px;
+    }
